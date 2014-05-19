@@ -1,6 +1,6 @@
 # Kohana User Auth
 
-My take on a User auth system for Kohana.
+My take on a user-auth system for Kohana. Improvements are welcome
 
 ## Dependencies:
 This module depends on a couple other Kohana modules to be installed and activated in your bootstrap.php:
